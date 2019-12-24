@@ -13,11 +13,19 @@
   left: 660px;
 }
 
+.okno:hover {
+  z-index: 1;
+
+}
 .okno1 {
   position: absolute;
   z-index: 79;
   top: 1807px;
   left: 769px;
+}
+.okno1:hover {
+  z-index: 1;
+
 }
 
 .okno2 {
@@ -27,11 +35,20 @@
   left: 877px;
 }
 
+.okno2:hover {
+  z-index: 1;
+
+}
+
 .okno3 {
   position: absolute;
   z-index: 59;
   top: 2009px;
   left: 987px;
+}
+.okno3:hover {
+  z-index: 1;
+
 }
 
 .okno4 {
@@ -39,6 +56,10 @@
   z-index: 49;
   top: 2108px;
   left: 1092px;
+}
+.okno4:hover {
+  z-index: 1;
+
 }
 
 .Frame {
@@ -95,39 +116,4 @@
   z-index: 99;
   top: 4159px;
   left: 1474px;
-}
-
-.frazi5 {
-  position: absolute;
-  z-index: 49;
-  top: 2261px;
-  left: 1123px;
-}
-
-.frazi4 {
-  position: absolute;
-  z-index: 59;
-  top: 2192px;
-  left: 1030px;
-}
-
-.frazi3 {
-  position: absolute;
-  z-index: 69;
-  top: 2068px;
-  left: 917px;
-}
-
-.frazi2 {
-  position: absolute;
-  z-index: 79;
-  top: 1940px;
-  left: 808px;
-}
-
-.frazi {
-  position: absolute;
-  z-index: 99;
-  top: 1858px;
-  left: 724px;
 }
